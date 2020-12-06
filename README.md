@@ -2,6 +2,22 @@ Project Title
 An interactive VR universe that can be used to interact with objects and gain knowledge through different situations and triggers. 
 
 Getting Started
+Scene 0:
+
+Link: https://github.com/Group2-VR-Project/Edutainment
+
+
+This is the Default scene which represents the current manner of learning, where a user is surrounded by walls, the classic classroom 
+
+Scene 1:
+
+Link: 
+
+https://hubs.mozilla.com/UfD8JN5/sienna-this-spot
+
+In scene 1 the User will get a chance to interact with the content they are learning in this case we are using solar system , the user can interact with the planets by going to the planets while they learn about the planet, for each planet they approach the user will hear an audio of a teacher teaching the subject.
+
+
 Scene 2:
 
 Link: 
