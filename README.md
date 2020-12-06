@@ -2,6 +2,9 @@ Project Title
 An interactive VR universe that can be used to interact with objects and gain knowledge through different situations and triggers. 
 
 Getting Started
+
+Installation
+Download assets folder from: https://github.com/kikoano/web2vr/tree/master/examples/room/assets and place in root folder
 Scene 0:
 
 Link: https://github.com/Group2-VR-Project/Edutainment
