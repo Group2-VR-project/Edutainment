@@ -1,4 +1,4 @@
-Project Title
+Project Title - (November hackathon solution)
 An interactive VR universe that can be used to interact with objects and gain knowledge through different situations and triggers. 
 
 Getting Started
@@ -10,7 +10,7 @@ Scene 0:
 Link: https://github.com/Group2-VR-Project/Edutainment
 
 
-This is the Default scene which represents the current manner of learning, where a user is surrounded by walls, the classic classroom 
+This is the Default scene which represents the current manner of learning environment, where a user/learner is surrounded by walls, the classic classroom 
 
 Scene 1:
 
@@ -39,6 +39,17 @@ In this scene the user will find an austranaut with his/her spaceship.
 The Austranaut cannot leave because he/she needs to solve a problem to get the space ship to move so he can go back "home".
 The user needs to "help the austranaut" in solving the problem.
 
+#########################################################################################################################################################
+
+2021 Scope expansion:
+
+We expanded the scope of our project to tackle the tourism sector since it is currently the hardest hit industry by Covid-19. THis is also inline with an upcoming holiday in South Africa: namely, Heritage day. We came up with a concept that will teach people what makes us South Africans to be unique through this journey you will understand why we are different and ho are we similar as we use some of the well known South Affrican tribes.
+
+Lessons learnt:
+We managed to solve a couple of the issues we had initially faced like adding audio, pictures and video onto a room. We are still having issues with teleporting between scenees or rooms hence we chose to have everything on one scene to reduce the room for error/failure.
+
+#########################################################################################################################################################
+
 Prerequisites
 Latest browser
 
@@ -53,6 +64,8 @@ Kamogelo Tsikoane
 Lebogang Sopazi
 David Maila
 Ofentse Mapheto
+Lulamani Madzivhe
+Banele Ntuli
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
